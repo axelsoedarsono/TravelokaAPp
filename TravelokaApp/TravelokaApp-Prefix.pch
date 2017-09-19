@@ -1,0 +1,17 @@
+//
+//  TravelokaApp-Prefix.pch
+//  TravelokaApp
+//
+//  Created by Axel Soedarsono on 9/18/17.
+//  Copyright © 2017 Axel Soedarsono. All rights reserved.
+//
+
+#ifndef TravelokaApp_Prefix_pch
+#define TravelokaApp_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Util.h"
+#import "Configs.h"
+
+#endif /* TravelokaApp_Prefix_pch */
