@@ -355,6 +355,7 @@
                                                                        30.0f)];
 //        self.returnDateIcon.backgroundColor = [UIColor lightGrayColor];
         self.returnDateIcon.image = [UIImage imageNamed:@"icon-calendar"];
+        
         [self addSubview:self.returnDateIcon];
         [self addSubview:self.roundTripIcon];
         
